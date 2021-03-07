@@ -39,7 +39,7 @@
 
 ```bash
 # Fazer o clone do Repositorio.
->> Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
+>> Git Clone: https://github.com/WD-GabrielKenji/NLW4-Trilha_de_ReactJS.git
 ```
 
 ```bash
