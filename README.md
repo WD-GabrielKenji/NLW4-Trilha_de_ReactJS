@@ -35,19 +35,26 @@
 
 ## :runner: <strong id="execucao"> Como executar o projeto </strong>
 
-[![NPM Badge](https://img.shields.io/badge/npm-6.14.11-brightgreen)](https://nodejs.org/en/download/) [![Yarn Badge](https://img.shields.io/badge/yarn-1.22.5-brightgreen)](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+[![Yarn Badge](https://img.shields.io/badge/yarn-1.22.5-brightgreen)](https://classic.yarnpkg.com/en/docs/install/#windows-stable) [![NPM Badge](https://img.shields.io/badge/npm-6.14.11-brightgreen)](https://nodejs.org/en/download/)
 
 ```bash
-# Fazer o clone do Repositorio.
->> Git Clone: https://github.com/WD-GabrielKenji/NLW4-Trilha_de_ReactJS.git
-```
+#Se utiliza YARN como ferramenta para auxiliar as instalações dos pacotes dentro do Node.js, executar os procedimentos abaixo:
 
-```bash
 #Instalar as dependencias do yarn: 
 >> yarn install
 
-#Iniciar o servidor yarn dev
+#Iniciar o servidor via yarn:
 >> yarn dev
+```
+
+```bash
+#Se utiliza NPM como ferramenta para auxiliar as instalações dos pacotes dentro do Node.js, executar os procedimentos abaixo:
+
+#Instalar as dependencias do npm:
+>> npm install
+
+#Iniciar o servidor via npm:
+>> npm run dev
 ```
 <pre>
 Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser e usufruir da aplicação
