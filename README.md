@@ -92,7 +92,9 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 
 ## :closed_book: <strong id="licenca"> Licença </strong>
 
-Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+<img alt="GitHub" src="https://img.shields.io/github/license/facebook/react"/>
+
+Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## :boy: <strong id="autor"> Autor </strong>
 
